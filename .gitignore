@@ -1,0 +1,9 @@
+/work
+
+*.v.bak
+*.cr.mti
+*.mpf
+*.m
+*.wlf
+*.txt
+*.dat
